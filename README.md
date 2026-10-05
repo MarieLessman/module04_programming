@@ -13,3 +13,18 @@
 
 ## AI Use Statement 
 I did not use AI for this lab.
+
+# Lab 6: Conditionals, Loops, & Dictionaries
+
+## Concepts Practiced 
+
+| Concepts  | What it does                                     |
+---------------------------------------------------------------
+| Dictionaries | Stores each record as key/value pairs like name, amount, and status |
+| Lists of dicts | Holds multiple records in one variable |
+| for loop | Goes through every record one at a time |
+| if statement | Checks a condition, like whether a record is pending or over the limit |
+| f-strings | Formats the summary into clean readable output |
+
+## AI Use Statement 
+I did not use AI for this lab. 
